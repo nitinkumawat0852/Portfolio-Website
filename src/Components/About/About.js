@@ -15,33 +15,18 @@ function About() {
         </div>
         <div className="about-right">
           <div className="about-para">
-            <p>
-            I’m Nitin Kumwat, a passionate Frontend Developer and a final-year
-            B.Tech student in Computer Science and Engineering, with a current
-            CGPA/SGPA of approximately 6.8. I enjoy creating responsive and
-            user-friendly web interfaces using HTML, CSS, JavaScript, and React.
-          </p>
-          <p>
-            I completed both my Secondary and Senior Secondary education under
-            the Rajasthan Board (RBSE), where I built a strong academic
-            foundation. Over time, I developed a keen interest in web
-            development, especially in building clean and accessible UI.
-          </p>
-          <p>
-            I believe in continuous learning and enjoy turning creative ideas
-            into real-world web applications. I’m currently seeking
-            opportunities to apply my skills, grow as a developer, and
-            contribute to meaningful projects.
-          </p>
+            <p>I’m Nitin Kumwat, a passionate Frontend Developer and a final-year B.Tech student in Computer Science and Engineering, with a current CGPA/SGPA of approximately 6.8. I enjoy creating responsive and user-friendly web interfaces using HTML, CSS JavaScript, and React.</p>
+          <p>I completed both my Secondary and Senior Secondary education under the Rajasthan Board (RBSE), where I built a strong academic foundation. Over time, I developed a keen interest in web development, especially in building clean and accessible UI.</p>
+          <p> I believe in continuous learning and enjoy turning creative ideas into real-world web applications. I’m currently seeking
+            opportunities to apply my skills, grow as a developer, andcontrib ute to meaningful projects.</p>
           </div>
-        </div>
+        
         <div className="about-skills">
           <div className="about-skill">
-            <p>HTML & CSS </p> <hr style={{ width: "50%" }} />
+            <p>HTML5  </p> <hr style={{ width: "50%" }} />
           </div>
           <div className="about-skill">
-            <p>BootStrap and Tailwind Framework </p>{" "}
-            <hr style={{ width: "70%" }} />
+            <p>CSS</p> <hr style={{ width: "70%" }} />
           </div>
           <div className="about-skill">
             <p> JavaScript </p> <hr style={{ width: "60%" }} />
@@ -50,21 +35,19 @@ function About() {
             <p>React Js</p> <hr style={{ width: "50%" }} />
           </div>
         </div>
+        </div>
       </div>
       <div className="about-archivments">
         <div className="about-archivemet">
-            <h1>6</h1>
-            <p>MONTH OF EXPERIENCE </p>
+            <h1>6</h1><p>MONTH OF EXPERIENCE </p>
         </div>
         <hr/>
         <div className="about-archivemet">
-            <h1>10+</h1>
-            <p>PROJECTS COMPLETED</p>
+            <h1>10+</h1><p>PROJECTS COMPLETED</p>
         </div>
         <hr/>
         <div className="about-archivemet">
-            <h1>15+</h1>
-            <p>HAPPY CLTENTS</p>
+            <h1>15+</h1><p>HAPPY CLTENTS</p>
         </div>
 
       </div>
