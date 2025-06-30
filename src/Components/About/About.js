@@ -4,7 +4,7 @@ import theme_patt from "../../Assets/about.svg";
 import profile_img from "../../Assets/WhatsApp Image 2025-06-27 at 18.58.55_ccab2ce9.jpg";
 function About() {
   return (
-    <div className="about">
+    <div id="about" className="about">
       <div className="about-title">
         <h1>About me</h1>
         <img src={theme_patt} />
