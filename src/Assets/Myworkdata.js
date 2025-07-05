@@ -1,4 +1,4 @@
-import project1_img from '../Assets/project_1.svg';
+import project1_img from '../Assets/nkpro.png';
 import project2_img from '../Assets/project_2.svg';
 import project3_img from '../Assets/project_3.svg';
 import project4_img from '../Assets/project_4.svg';
@@ -10,6 +10,7 @@ const mywork_data = [
         w_no :1,
         w_name :"Web Desgin",
         w_img : project1_img,
+        w_link:'https://ecommerce-project-seven-iota.vercel.app/',
     },
     {
         w_no :2,
